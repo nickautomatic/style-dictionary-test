@@ -1,5 +1,8 @@
 {
-	"devDependencies": {
-		"style-dictionary": "^4.3.0"
-	}
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "devDependencies": {
+    "style-dictionary": "^4.3.0"
+  }
 }
