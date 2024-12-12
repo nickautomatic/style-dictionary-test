@@ -2,42 +2,24 @@
   "text": {
     "fonts": {
       "$type": "fontFamily",
-      "serif": {
-        "$value": "Times New Roman, serif"
-      },
-      "sans": {
-        "$value": "Open Sans, sans-serif"
-      }
+      "serif": { "$value": "Times New Roman, serif" },
+      "sans": { "$value": "Open Sans, sans-serif" }
     },
     "sizes": {
       "$type": "fontSize",
-      "heading": {
-        "$value": "{dimensions.7}"
-      },
-      "body": {
-        "$value": "{dimensions.4}"
-      }
+      "heading": { "$value": "{dimensions.7}" },
+      "body": { "$value": "{dimensions.4}" }
     },
     "weights": {
       "$type": "fontWeight",
-      "light": {
-        "$value": "thin"
-      },
-      "regular": {
-        "$value": "regular"
-      },
-      "bold": {
-        "$value": "extra-bold"
-      }
+      "light": { "$value": "thin" },
+      "regular": { "$value": "regular" },
+      "bold": { "$value": "extra-bold" }
     },
     "lineHeights": {
       "$type": "number",
-      "normal": {
-        "$value": 1.2
-      },
-      "large": {
-        "$value": 1.8
-      }
+      "normal": { "$value": 1.2 },
+      "large": { "$value": 1.8 }
     },
     "typography": {
       "$type": "typography",
