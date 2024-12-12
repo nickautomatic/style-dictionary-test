@@ -9,10 +9,6 @@
 import UIKit
 
 public class StyleDictionaryClass {
-    public static let bordersHeavy = [object Object]
-    public static let bordersStylesDashed = [object Object]
-    public static let bordersStylesSolid = solid
-    public static let bordersWireframe = [object Object]
     public static let colorsBlack = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorsOrange100 = UIColor(red: 1.000, green: 0.980, blue: 0.941, alpha: 1)
     public static let colorsOrange200 = UIColor(red: 0.996, green: 0.922, blue: 0.784, alpha: 1)
@@ -41,9 +37,6 @@ public class StyleDictionaryClass {
     public static let dimensions8 = CGFloat(512.00)
     public static let dimensions9 = CGFloat(576.00)
     public static let dimensionsMax = CGFloat(159984.00)
-    public static let shadowsLg = [object Object]
-    public static let shadowsMulti = [object Object],[object Object]
-    public static let shadowsSm = [object Object]
     public static let textFontsSans = Open Sans, sans-serif
     public static let textFontsSerif = Times New Roman, serif
     public static let textLineHeightsLarge = 1.8
@@ -55,12 +48,4 @@ public class StyleDictionaryClass {
     public static let textWeightsBold = extra-bold
     public static let textWeightsLight = thin
     public static let textWeightsRegular = regular
-    public static let transitionsDurationsInstant = 0ms
-    public static let transitionsDurationsLong = 600ms
-    public static let transitionsDurationsMedium = 300ms
-    public static let transitionsDurationsShort = 100ms
-    public static let transitionsEasingFunctionsAccelerate = 0.5,0,1,1
-    public static let transitionsEasingFunctionsDecelerate = 0,0,0.5,1
-    public static let transitionsEmphasis = [object Object]
-    public static let transitionsFade = [object Object]
 }
