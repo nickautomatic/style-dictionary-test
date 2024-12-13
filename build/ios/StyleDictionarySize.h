@@ -24,4 +24,3 @@ extern float const Dimensions12;
 extern float const Dimensions13;
 extern float const Dimensions14;
 extern float const Dimensions15;
-extern float const DimensionsMax;

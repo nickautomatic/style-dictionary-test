@@ -25,4 +25,3 @@ float const Dimensions12 = 768.00f;
 float const Dimensions13 = 832.00f;
 float const Dimensions14 = 896.00f;
 float const Dimensions15 = 960.00f;
-float const DimensionsMax = 159984.00f;
