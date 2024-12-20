@@ -1,15 +1,17 @@
 # Basic Style Dictionary
 
-This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run:
+This example code is bare-bones to show you what this framework can do.
 
-```bash
-npx style-dictionary build
+Install by running:
+
+```sh
+pnpm install
 ```
 
-Otherwise, install Style Dictionary locally for this project first, `cd` into this directory and run:
+Then run Style Dictionary:
 
-```bash
-npm init -y && npm install style-dictionary
+```sh
+pnpm run build
 ```
 
-and then run the above command.
+This will take the tokens specified in the `tokens` folder, and the config in `config.json`, and use them to write various formats to the `build` folder.
